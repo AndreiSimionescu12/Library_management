@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1621242870 source:c:\users\vlad\desktop\proiect oop\proiect oop\main.cpp
+	<iostream>
+	"Biblioteca.h"
+	"Meniu.h"
+	<stdio.h>
+	<stdlib.h>
+	"Meniu_login_register.h"
+	"Register.h"
+	<fstream>
+	"Cont_Admin.h"
+
+1621191953 c:\users\vlad\desktop\proiect oop\proiect oop\include\biblioteca.h
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<stdio.h>
+	<fstream>
+
+1621191953 source:c:\users\vlad\desktop\proiect oop\proiect oop\src\biblioteca.cpp
+	"Biblioteca.h"
+	<fstream>
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<stdio.h>
+
+1621241659 c:\users\vlad\desktop\proiect oop\proiect oop\meniu.h
+	<iostream>
+	<stdio.h>
+
+1621242687 c:\users\vlad\desktop\proiect oop\proiect oop\meniu_login_register.h
+	<cstring>
+	<stdio.h>
+	<iostream>
+
+1621190596 c:\users\vlad\desktop\proiect oop\proiect oop\register.h
+	<stdio.h>
+	<iostream>
+	<cstring>
+	<fstream>
+
+1621183701 c:\users\vlad\desktop\proiect oop\proiect oop\cont_admin.h
+	<iostream>
+	<cstring>
+
+1621242870 source:c:\users\vlad\desktop\poo proiect\proiect oop\proiect oop\main.cpp
+	<iostream>
+	"Biblioteca.h"
+	"Meniu.h"
+	<stdio.h>
+	<stdlib.h>
+	"Meniu_login_register.h"
+	"Register.h"
+	<fstream>
+	"Cont_Admin.h"
+
+1622650726 c:\users\vlad\desktop\poo proiect\proiect oop\proiect oop\include\biblioteca.h
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<stdio.h>
+	<fstream>
+
+1621241659 c:\users\vlad\desktop\poo proiect\proiect oop\proiect oop\meniu.h
+	<iostream>
+	<stdio.h>
+
+1621242687 c:\users\vlad\desktop\poo proiect\proiect oop\proiect oop\meniu_login_register.h
+	<cstring>
+	<stdio.h>
+	<iostream>
+
+1621190596 c:\users\vlad\desktop\poo proiect\proiect oop\proiect oop\register.h
+	<stdio.h>
+	<iostream>
+	<cstring>
+	<fstream>
+
+1621183701 c:\users\vlad\desktop\poo proiect\proiect oop\proiect oop\cont_admin.h
+	<iostream>
+	<cstring>
+
+1622650726 source:c:\users\vlad\desktop\poo proiect\proiect oop\proiect oop\src\biblioteca.cpp
+	"Biblioteca.h"
+	<fstream>
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<stdio.h>
+
+1622815903 source:c:\users\vlad\desktop\proiect poo\poo proiect\proiect oop\proiect oop\main.cpp
+	<iostream>
+	"Biblioteca.h"
+	"Meniu.h"
+	<stdio.h>
+	<stdlib.h>
+	"Meniu_login_register.h"
+	"Register.h"
+	<fstream>
+	"Cont_Admin.h"
+
+1622650726 c:\users\vlad\desktop\proiect poo\poo proiect\proiect oop\proiect oop\include\biblioteca.h
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<stdio.h>
+	<fstream>
+
+1621241659 c:\users\vlad\desktop\proiect poo\poo proiect\proiect oop\proiect oop\meniu.h
+	<iostream>
+	<stdio.h>
+
+1621242687 c:\users\vlad\desktop\proiect poo\poo proiect\proiect oop\proiect oop\meniu_login_register.h
+	<cstring>
+	<stdio.h>
+	<iostream>
+
+1621190596 c:\users\vlad\desktop\proiect poo\poo proiect\proiect oop\proiect oop\register.h
+	<stdio.h>
+	<iostream>
+	<cstring>
+	<fstream>
+
+1621183701 c:\users\vlad\desktop\proiect poo\poo proiect\proiect oop\proiect oop\cont_admin.h
+	<iostream>
+	<cstring>
+
+1622650726 source:c:\users\vlad\desktop\proiect poo\poo proiect\proiect oop\proiect oop\src\biblioteca.cpp
+	"Biblioteca.h"
+	<fstream>
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<stdio.h>
+
